@@ -1,8 +1,8 @@
-#Basic boilerplate code for starting a React app, including Webpack and Babel configurations
+### Basic boilerplate code for starting a React app, including Webpack and Babel configurations
 
-##(Handcrafted by Anthony Fadero for Mississauga Coding)
+#### (Handcrafted by Anthony Fadero for Mississauga Coding)
 
-###Usage Steps:
+Usage Steps:
 
 1. `git clone https://github.com/MississaugaCoding/meetup_react_proj.git your-project-folder-name`
 2. `cd your-project-folder-name`
