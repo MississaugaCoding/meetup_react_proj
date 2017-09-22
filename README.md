@@ -1,4 +1,4 @@
-### Basic boilerplate code for starting a React app, including Webpack and Babel configurations
+### Bare-bones boilerplate code for starting a React app, including Webpack and Babel configurations
 
 #### (Handcrafted by Anthony Fadero for Mississauga Coding)
 
